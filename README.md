@@ -4,12 +4,12 @@ A simple **flood fill algorithm** to check inner map boundaries. Map must be for
 ### Examples
 Map will be filled with character '5' from the player position, spreading to all posibble positions. 
 
-**_Map sample to be studied:_**
+**_Example output of right map:_**
 
 ![picture alt](images/before.png "Map sample to be studied:")
 
 
-**_Successfull output with filled map:_**
+**_Example output of wrong map:_**
 
 ![picture alt](images/after.png "Sucessfull output with filled map:")
 
