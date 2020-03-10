@@ -4,13 +4,15 @@ A simple **flood fill algorithm** to check inner map boundaries. Map must be for
 ### Examples
 Map will be filled with character '5' from the player position, spreading to all posibble positions. 
 
-_Map sample to be studied:_
+**_Map sample to be studied:_**
 
 ![picture alt](images/before.png "Map sample to be studied:")
 
-_Sucessfull output with filled map:_
+
+**_Sucessfull output with filled map:_**
 
 ![picture alt](images/after.png "Sucessfull output with filled map:")
+
 
 ### Usage
 Clone repo and compile the code as follows. You can use maps found in _map_samples_ folder or create yours. Although not mandatory map extension should be ".cub"
