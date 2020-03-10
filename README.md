@@ -9,7 +9,7 @@ Map will be filled with character '5' from the player position, spreading to all
 ![picture alt](images/before.png "Map sample to be studied:")
 
 
-**_Sucessfull output with filled map:_**
+**_Successfull output with filled map:_**
 
 ![picture alt](images/after.png "Sucessfull output with filled map:")
 
