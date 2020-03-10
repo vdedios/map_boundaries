@@ -19,3 +19,6 @@ Clone repo and compile the code as follows. You can use maps found in _map_sampl
 
 `$>gcc -Wall -Werror -Wextra get_next_line.c get_next_line_utils.c map_boundaries.c -o map_boundaries`
 `$>./map_boundaries map.cub`
+
+### Resources
+If you want to know a little bit about the flood fill algorithm check: https://en.wikipedia.org/wiki/Flood_fill
