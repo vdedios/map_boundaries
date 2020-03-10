@@ -141,6 +141,6 @@ int main(int argc, char **argv)
 	map[i][j] = '0';
 	ft_flood_fill(map, i, j, lines);
 	ft_printmap(map);
-	printf("Rigth map!\n");
+	printf("Right map!\n");
 	return (0);
 }
