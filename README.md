@@ -1,5 +1,5 @@
 ## Map Boundaries 🗺
-A simple **flood fill algorithm** to check inner map boundaries. Map must be formed by walls (represented as 1), floor (as 0) and player (N, W, E or S). Player must be completelly surrounded by walls in order to consider a valid map.
+A simple **flood fill algorithm** to check inner map boundaries. Map must be formed by walls (represented as 1), floor (as 0) and player (N, W, E or S). **Player** must be **completelly surrounded** by walls in order to consider a **valid map**.
 
 ### Examples
 Map will be filled with character '5' from the player position, spreading to all posibble positions. 
